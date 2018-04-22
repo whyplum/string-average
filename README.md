@@ -18,6 +18,6 @@ Iterative median of strings. The algorithm starts from the string median (R) and
 3. get_string_average_prob(mode, string_tab_with_prob, max_iter)
 Iterative median of strings with probabilities for every string char. Modification of (2).
 
-
+Usage and examples: see test.py
 
 
