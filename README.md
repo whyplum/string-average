@@ -13,7 +13,7 @@ There are 3 functions available:
 median of strings, equivalent to median (R)
 
 2. better_average(string_tab, max_iter)
-Iterative median of strings. The algorithm starts from the string median (R) and applies pseudo code from (D) to improve teh average
+Iterative median of strings. The algorithm starts from the string median (R) and applies pseudo code from (D) to improve the average
 
 3. get_string_average_prob(mode, string_tab_with_prob, max_iter)
 Iterative median of strings with probabilities for every string char. Modification of (2).
